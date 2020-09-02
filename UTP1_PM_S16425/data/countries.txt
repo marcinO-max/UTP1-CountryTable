@@ -1,0 +1,195 @@
+Name	Capital	Population
+Afganistan	Kabul	30419928
+Albania 	Tirana	3195000
+Algieria	Algier	34178188
+Andora	Andora (Andorra la Vella)	84525
+Angola	Luanda	17312000
+Antigua i Barbuda	Saint John's	85420
+Arabia Saudyjska	Rijad	28686633
+Argentyna	Buenos Aires	40913584
+Armenia	Erywań	3259100
+Australia	Canberra	22343203
+Austria	Wiedeń	8402549
+Azerbejdżan	Baku	9493600
+Bahamy	Nassau	307451
+Bahrajn	Manama	1323535
+Bangladesz	Dhaka	162221000
+Barbados	Bridgetown	281968
+Belgia 	Bruksela	10584534
+Belize	Belmopan	266440
+Benin	Porto-Novo	8295000
+Bhutan	Thimphu	682321
+Białoruś	Mińsk	9474200
+Boliwia	Sucre (konstytucyjna), La Paz (siedziba rządu)	9248000
+Bośnia i Hercegowina	Sarajewo	4590310
+Botswana	Gaborone	1842000
+Brazylia 	Brasilia	201103330
+Brunei	Bandar Seri Begawan	381371
+Bułgaria 	Sofia	7531000
+Burkina Faso	Wagadugu	15746232
+Burundi	Bużumbura	8691000
+Chile	Santiago	16601707
+Chiny	Pekin	1347374752
+Chorwacja 	Zagrzeb	4437460
+Cypr 	Nikozja	794600
+Czad	Ndżamena	10758945
+Czarnogóra	Podgorica	672180
+Czechy 	Praga	10532770
+Dania 	Kopenhaga	5540241
+Demokratyczna Republika Konga	Kinszasa	66515000
+Dominika	Roseau	72000
+Dominikana	Santo Domingo	9049595
+Dżibuti	Dżibuti	506221
+Egipt 	Kair	80471869
+Ekwador	Quito	13928000
+Erytrea	Asmara	5028000
+Estonia 	Tallinn	1340122
+Etiopia 	Addis Abeba	81238000
+Fidżi	Suva	849000
+Filipiny	Manila	92681000
+Finlandia 	Helsinki	5313026
+Francja 	Paryż	66000000
+Gabon	Libreville	1454867
+Gambia	Bandżul	1690000
+Ghana	Akra	23000000
+Grecja 	Ateny	11216708
+Grenada	Saint George's	89258
+Gruzja	Tbilisi	4630841
+Gujana	Georgetown	769095
+Gwatemala	Gwatemala	12013907
+Gwinea	Konakry	9950670
+Gwinea Bissau	Bissau	1475000
+Gwinea Równikowa	Malabo	616459
+Haiti	Port-au-Prince	8925000
+Hiszpania 	Madryt	47150819
+Holandia	Amsterdam (konstytucyjna), Haga (administracyjna)	16509303
+Honduras	Tegucigalpa	7325000
+Indie	Nowe Delhi	1166079217
+Indonezja	Dżakarta	242968342
+Irak	Bagdad	30399572
+Iran	Teheran	70495782
+Irlandia	Dublin	4581269
+Islandia 	Reykjavík	306694
+Izrael	Jerozolima	7653600
+Jamajka	Kingston	2700000
+Japonia	Tokio	126475664
+Jemen	Sana	23495361
+Jordania	Amman	5759732
+Kambodża	Phnom Penh	13388910
+Kamerun	Jaunde	18100000
+Kanada	Ottawa	34110000
+Katar	Doha	928635
+Kazachstan	Astana	15399437
+Kenia 	Nairobi	37953840
+Kirgistan	Biszkek	5357000
+Kiribati	Bairiki	103092
+Kolumbia	Bogota	45730834
+Komory	Moroni	671247
+Kongo	Brazzaville	3756000
+Korea Południowa	Seul	50062000
+Korea Północna	Pjongjang	22757275
+Kostaryka	San José	4325000
+Kuba	Hawana	11424000
+Kuwejt	Kuwejt	2597000
+Laos	Wientian	6521998
+Lesotho	Maseru	2031348
+Liban	Bejrut	3925502
+Liberia	Monrovia	3200000
+Libia	Trypolis	6310434
+Liechtenstein	Vaduz	34761
+Litwa 	Wilno	3225346
+Luksemburg	Luksemburg	474413
+Łotwa 	Ryga	2224400
+Macedonia	Skopje	2061000
+Madagaskar	Antananarywa	20653556
+Malawi	Lilongwe	13600000
+Malediwy	Male	396334
+Malezja	Kuala Lumpur	27730000
+Mali	Bamako	12666987
+Malta	Valletta	403532
+Maroko	Rabat	34859364
+Mauretania	Nawakszut	3250000
+Mauritius	Port Louis	1230602
+Meksyk 	Meksyk	112336538
+Mikronezja	Palikir	135000
+Mjanma	Naypyidaw	53414374
+Mołdawia	Kiszyniów	4324450
+Monako	Monako	32796
+Mongolia	Ułan Bator	2736800
+Mozambik	Maputo (dawniej Lourenço Marques)	21000000
+Namibia	Windhuk	2089000
+Nauru	Yaren	14019
+Nepal	Katmandu	28635000
+Niemcy 	Berlin	81772000
+Niger	Niamey	15306252
+Nigeria	Abudża	154729000
+Nikaragua	Managua	5570000
+Norwegia 	Oslo	4769000
+Nowa Zelandia	Wellington	4393500
+Oman	Maskat	3312000
+Pakistan	Islamabad	176242949
+Palau	Ngerulmud	20800
+Panama	Panama	3293000
+Papua-Nowa Gwinea	Port Moresby	5932000
+Paragwaj	Asunción	6670000
+Peru	Lima	29181000
+Polska 	Warszawa	38200037
+Portugalia 	Lizbona	10677000
+Południowa Afryka	Pretoria (stolica egzekutywna)	48783000
+Republika Środkowoafrykańska	Bangi	4370000
+Republika Zielonego Przylądka	Praia	499796
+Rosja 	Moskwa	142914136
+Rumunia 	Bukareszt	22215421
+Rwanda	Kigali	10186000
+Saint Kitts i Nevis	Basseterre	38819
+Saint Lucia	Castries	164213
+Saint Vincent i Grenadyny	Kingstown	119000
+Salwador	San Salvador	6820000
+Samoa	Apia	177714
+San Marino	San Marino	31817
+Senegal	Dakar	12521851
+Serbia	Belgrad	7498001
+Seszele 	Victoria	86525
+Sierra Leone	Freetown	6150000
+Singapur	Singapur	4608000
+Słowacja 	Bratysława	5455000
+Słowenia	Lublana	2039399
+Somalia	Mogadiszu	9559000
+Sri Lanka	Sri Dźajawardanapura Kotte	20010000
+Stany Zjednoczone	Waszyngton	311280492
+Suazi	Mbabane	1138227
+Sudan	Chartum	30894000
+Sudan Południowy	Dżuba	8260490
+Surinam	Paramaribo	476000
+Syria	Damaszek	19748000
+Szwajcaria 	Berno (nieoficjalnie)	7725200
+Szwecja 	Sztokholm	9331523
+Tadżykistan	Duszanbe	7100000
+Tajlandia	Bangkok	65493000
+Tanzania	Dodoma	39384223
+Timor Wschodni	Dili	1109000
+Togo	Lomé	5400000
+Tonga	Nuku'alofa	119009
+Trynidad i Tobago	Port-of-Spain	1229000
+Tunezja	Tunis	10384000
+Turcja 	Ankara	77804122
+Turkmenistan	Aszchabad	5180000
+Tuvalu	Vaiaku na atolu Funafuti	12373
+Uganda	Kampala	32369558
+Ukraina 	Kijów	45706126
+Urugwaj	Montevideo	3477779
+Uzbekistan	Taszkent	27610000
+Vanuatu	Port Vila	243304
+Watykan	Watykan	824
+Wenezuela	Caracas	30102382
+Węgry	Budapeszt	9982000
+Wielka Brytania 	Londyn	62222000
+Wietnam 	Hanoi	86024600
+Włochy 	Rzym	60418711
+Wybrzeże Kości Słoniowej	Jamusukro	18373000
+Wyspy Marshalla	Majuro	59071
+Wyspy Salomona	Honiara	552000
+Wyspy Świętego Tomasza i Książęca	Sao Tomé	193410
+Zambia	Lusaka	11500000
+Zimbabwe	Harare	12383000
+Zjednoczone Emiraty Arabskie	Abu Zabi	4621000
